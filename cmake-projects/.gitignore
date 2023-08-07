@@ -1,1 +1,1 @@
-cmake-projects/build/*
+build/**/*
